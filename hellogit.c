@@ -1,7 +1,7 @@
 #include <stdio.h>
 main()
 {
-printf ("Hello Git\n");
+printf ("Hello Git v3.0\n");
 }
 
 
