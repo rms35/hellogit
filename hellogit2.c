@@ -1,6 +1,6 @@
 #include <stdio.h>
 main()
 {
-printf ("Hello Git2\n");
+printf ("Hello Git2 retocar\n");
 }
 
